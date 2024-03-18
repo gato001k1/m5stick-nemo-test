@@ -84,7 +84,7 @@ uint16_t FGCOLOR=0xFFF1; // placeholder
   //#define SONG
   // -=-=- ALIASES -=-=-
   #define DISP M5.Lcd
-  #define IRLED 19
+  #define IRLED 26
   #define BITMAP M5.Lcd.drawBmp(NEMOMatrix, 97338)
   #define M5_BUTTON_MENU 35
   #define M5_BUTTON_HOME 37
